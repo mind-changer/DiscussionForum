@@ -1,2 +1,2 @@
 # DiscussionForum
-a basic forum
+a basic forum for computer engineering students
